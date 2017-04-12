@@ -3,7 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
     <item
         android:id="@+id/casty_media_route_menu_item"
-        android:title="@android:string/untitled"
+        android:title="@string/cast_menu_item"
         app:actionProviderClass="android.support.v7.app.MediaRouteActionProvider"
         app:showAsAction="always" />
 </menu>
